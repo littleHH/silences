@@ -1,0 +1,5 @@
+ 调用方法：
+ https://raw.githubusercontent.com/littleHH/silences/master/yitao.json
+
+
+ 客户修改时 只需要将 code 设置为200 代表 开启网页访问。然后将jump字段设置为想要跳转的网页地址
